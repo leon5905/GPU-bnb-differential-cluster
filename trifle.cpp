@@ -10,6 +10,8 @@
 #include <chrono>
 #include <thread>
 
+//Bundle launch feature referenced in this section is incomplete. 
+
 // //  GPU with cpu only
 //  Rounds Trails 0 : 7
 //  Rounds Trails 1 : 2905
